@@ -1,7 +1,7 @@
 [
   {
     "name": "Kaboot",
-    "icon": "/images/android-icon.png",
-    "downloadLink": "https://play.google.com/store/apps/details?id=kaboom.android"
-  },
+    "icon": "https://raw.githubusercontent.com/Kaboom-18/Kaboom-Database/refs/heads/main/Kaboot/icon.png",
+    "downloadLink": "https://raw.githubusercontent.com/Kaboom-18/Kaboom-Database/refs/heads/main/Kaboot/kaboot.apk"
+  }
 ]
