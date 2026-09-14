@@ -1,7 +1,7 @@
 [
   {
-    "name":"alpine"
-    "description":"A lightweight linux distro"
+    "name":"alpine",
+    "description":"A lightweight linux distro",
     "url":[
       "arm64-v8a": "//",
       "armeabi-v7a": "//"
